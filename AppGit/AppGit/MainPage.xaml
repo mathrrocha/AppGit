@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:AppGit"
              x:Class="AppGit.MainPage">
 
-	<Label Text="Versão 0.0.1" 
+	<Label Text="Versãhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhho 0.0.1" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
